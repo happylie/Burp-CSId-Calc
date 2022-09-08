@@ -1,5 +1,6 @@
 # BurpSuite Extension - Session ID Entropy Calculator(CSId Calc)
 BurpSuite Extension for computing Entropy for Session ID.
+<br>
 I made it based on what I made with Python.
 - https://github.com/happylie/CSId-Calc
 - https://happylie.tistory.com/145 (Only Korean)
