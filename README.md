@@ -20,7 +20,7 @@ In this extension, when a session ID value is entered, the result value is deriv
 ## Setup
 1. Download [Jython](https://www.jython.org/download) in Burp Suite
 ![](screenshots/jython.png)
-2. Download the extension
+2. Download the [extension](https://github.com/happylie/Burp-CSId-Calc/archive/refs/tags/v1.0.zip)
 3. In the 'Extensions' tab under 'Extender', select 'Add'
 4. Change the extension type to 'Python'
 5. Provide the path of the file ‘burp_csid.py’ and click on 'Next'
